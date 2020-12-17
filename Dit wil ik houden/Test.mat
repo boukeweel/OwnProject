@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Test
+  m_Shader: {fileID: -6465566751694194690, guid: 6cf0086122a77c34586459cc23e1006a, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_ACED221A:
+        m_Texture: {fileID: 2800000, guid: 0e98ced6ec6951e4e84f74d70982be98, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_4919309A: 1.75
+    - Vector1_A649BF6C: 7
+    - Vector1_BE22EB91: 0.05
+    m_Colors:
+    - Color_5A2A2903: {r: 0, g: 2.9803922, b: 2.9960785, a: 0}
+  m_BuildTextureStacks: []
